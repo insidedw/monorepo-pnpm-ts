@@ -1,0 +1,1 @@
+export const getLength = (a: string) => a.length

@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.json",
+//  "compilerOptions": {
+//    "baseUrl": ".",
+//    "paths": {
+//      "@S_shared/*": ["../../libs/shared/src/*"],
+//      "@cal/*": ["src/*"]
+//    }
+//  }
+}
